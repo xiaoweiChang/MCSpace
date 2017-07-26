@@ -1,2 +1,3 @@
 Create File
 Add Content on branch
+Switch to a new branch 'feature1'
